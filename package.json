@@ -1,6 +1,6 @@
 {
 	"name": "@mavam/pi-terminal-theme",
-	"version": "0.1.1",
+	"version": "0.1.2",
 	"description": "Pi theme that maps UI colors to ANSI 0..15.",
 	"type": "module",
 	"files": [

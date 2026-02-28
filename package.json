@@ -1,0 +1,37 @@
+{
+	"name": "@mavam/pi-terminal-theme",
+	"version": "0.1.0",
+	"description": "Pi theme that maps UI colors to ANSI 0..15.",
+	"type": "module",
+	"files": [
+		"themes",
+		"README.md",
+		"LICENSE"
+	],
+	"keywords": [
+		"pi-package",
+		"pi-theme",
+		"coding-agent",
+		"terminal",
+		"cli-theme",
+		"ansi",
+		"themes"
+	],
+	"author": "mavam",
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/mavam/pi-terminal-theme.git"
+	},
+	"engines": {
+		"node": ">=20.0.0"
+	},
+	"publishConfig": {
+		"access": "public"
+	},
+	"pi": {
+		"themes": [
+			"./themes"
+		]
+	}
+}

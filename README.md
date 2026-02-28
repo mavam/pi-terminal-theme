@@ -8,7 +8,7 @@ theme maps UI colors to ANSI `0..15`. That's it.
 ## 📦 Install
 
 ```bash
-pi install npm:@mavam/pi-terminal-theme
+pi install npm:pi-terminal-theme
 ```
 
 ## 🎨 Use

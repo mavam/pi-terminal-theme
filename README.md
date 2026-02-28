@@ -8,7 +8,7 @@ theme maps UI colors to ANSI `0..15`. That's it.
 ## 📦 Install
 
 ```bash
-pi install git:github.com/mavam/pi-terminal-theme
+pi install npm:@mavam/pi-terminal-theme
 ```
 
 ## 🎨 Use
@@ -20,6 +20,17 @@ Pick `terminal` in `/settings` → `theme`, or:
   "theme": "terminal"
 }
 ```
+
+## 🔄 No theme switcher needed
+
+Because this theme uses your terminal’s ANSI palette directly, it automatically
+follows whatever your terminal is already using (light/dark, custom palettes,
+scheduled changes, etc.).
+
+That means you usually don’t need a separate theme switcher integration such as:
+
+- https://github.com/mise42/pi-theme-sync
+- https://github.com/ferologics/pi-system-theme
 
 ## 📄 License
 

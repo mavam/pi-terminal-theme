@@ -1,9 +1,6 @@
----
-title: Add terminal theme
-type: feature
-author: mavam
-created: 2026-02-28T09:59:50.751055Z
----
+## 🚀 Features
+
+### Add terminal theme
 
 Added a `terminal` theme for pi. Why?
 
@@ -13,7 +10,9 @@ Added a `terminal` theme for pi. Why?
 How to use:
 
 ```bash
-pi install git:github.com/mavam/pi-terminal-theme
+pi install npm:@mavam/pi-terminal-theme
 ```
 
 Then select `terminal` in `/settings` under `theme`.
+
+*By @mavam.*

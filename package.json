@@ -1,7 +1,7 @@
 {
   "name": "pi-terminal-theme",
   "version": "0.1.4",
-  "description": "Pi theme that maps UI colors to ANSI 0..15.",
+  "description": "Pi terminal themes using ANSI 0..15, with an optional tinted variant for custom palette slots.",
   "type": "module",
   "files": [
     "themes",

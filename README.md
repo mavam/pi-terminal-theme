@@ -2,7 +2,7 @@
 
 Your terminal colors are fine. Stop overriding them.
 
-This [pi](https://github.com/badlogic/pi-mono/tree/main/packages/coding-agent)
+This [pi](https://github.com/earendil-works/pi-mono/tree/main/packages/coding-agent)
 theme maps UI colors to ANSI `0..15`. That's it.
 
 ## 📦 Install

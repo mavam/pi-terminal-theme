@@ -49,8 +49,8 @@ That means you usually don’t need a separate theme switcher integration such a
 
 ## 🎨 Tinted palette slots
 
-The `terminal-tinted` theme treats palette slots `16..21` as package-specific
-background colors:
+The `terminal-tinted` theme treats palette slots `16..23` as package-specific
+UI colors:
 
 | Slot | Theme use |
 | --- | --- |
@@ -60,6 +60,8 @@ background colors:
 | `19` | Tool pending background |
 | `20` | User message background |
 | `21` | Custom message background |
+| `22` | Tool title |
+| `23` | Tool output |
 
 These are not standard dim ANSI colors. If your terminal does not remap these
 slots, it will use the built-in xterm 256-color cube, which can produce harsh

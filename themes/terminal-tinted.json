@@ -24,7 +24,9 @@
     "tintToolSuccessBg": 18,
     "tintToolPendingBg": 19,
     "tintUserMessageBg": 20,
-    "tintCustomMessageBg": 21
+    "tintCustomMessageBg": 21,
+    "tintToolTitle": 22,
+    "tintToolOutput": 23
   },
   "colors": {
     "accent": "blue",
@@ -49,8 +51,8 @@
     "toolPendingBg": "tintToolPendingBg",
     "toolSuccessBg": "tintToolSuccessBg",
     "toolErrorBg": "tintToolErrorBg",
-    "toolTitle": "blue",
-    "toolOutput": "",
+    "toolTitle": "tintToolTitle",
+    "toolOutput": "tintToolOutput",
 
     "mdHeading": "brightBlue",
     "mdLink": "blue",

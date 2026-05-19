@@ -65,12 +65,6 @@ These are not standard dim ANSI colors. If your terminal does not remap these
 slots, it will use the built-in xterm 256-color cube, which can produce harsh
 or unreadable backgrounds.
 
-## 🧹 Uninstall
-
-```sh
-pi remove npm:pi-terminal-theme
-```
-
 ## 📄 License
 
 [MIT](LICENSE)

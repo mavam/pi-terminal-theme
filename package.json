@@ -1,6 +1,6 @@
 {
   "name": "pi-terminal-theme",
-  "version": "0.1.4",
+  "version": "0.2.0",
   "description": "Pi terminal themes using ANSI 0..15, with an optional tinted variant for custom palette slots.",
   "type": "module",
   "files": [

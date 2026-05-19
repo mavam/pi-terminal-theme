@@ -1,0 +1,8 @@
+created: 2026-05-19
+title: Opt-in tinted terminal theme
+intro: >-
+  This release adds an opt-in tinted terminal theme while keeping the default terminal
+  theme unchanged.
+source:
+  mode: sync-stable-queue
+  previous_stable: v0.1.4
